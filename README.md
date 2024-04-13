@@ -1,1 +1,2 @@
 # Webscraping-Bot-for-Sports-Betting-Optimization
+This is a webscraping bot designed using the Selenium framework to webscrape PrizePicks for the current player props and return the data as a csv in the data folder. The config file provides a rotating proxy selection system from a third-party github repo containing proxy IP addresses that can be enabled in app.py. However, due to the low probability of finding a proxy IP that works, this configuration has been turned off. 
